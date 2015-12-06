@@ -4,4 +4,5 @@ Making a change on the kbotics:master .
 Making my own change on github.
 Here is my change on origin/master.
 Making a change in my fork.  Then I will make a change in origin/master so I will have to pull from origin/master before I can issue a pull request.
-This is my third try.  I am going to try to do it all from my desktop github.
+going to try the make change in my fork and then make a change in kbotics:master so I will be forced to update my fork before merging back in.
+
