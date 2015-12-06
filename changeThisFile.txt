@@ -4,4 +4,4 @@ Making a change on the kbotics:master .
 Making my own change on github.
 Here is my change on origin/master.
 Making a change in my fork.  Then I will make a change in origin/master so I will have to pull from origin/master before I can issue a pull request.
-got mixed up last time with the repo clone on my machine.  It was kbotics:master.  I was using it like gbuckholtz:master.  Now this change will be in my gbuckholtz:master.
+Trying this for a second time now to see if I know what I am doing.
